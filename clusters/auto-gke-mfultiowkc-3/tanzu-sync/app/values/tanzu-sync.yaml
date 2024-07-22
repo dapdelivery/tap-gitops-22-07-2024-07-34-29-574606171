@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/dapdelivery/tap-gitops-22-07-2024-07-34-29-574606171.git
+  ref: origin/master
+  sub_path: clusters/auto-gke-mfultiowkc-3/cluster-config
+tap_package_repository:
+  oci_repository: tap-sm-docker-dev-local.dmz.packages.broadcom.com/1.12.0-build.13/tanzu-application-platform/tap-packages
